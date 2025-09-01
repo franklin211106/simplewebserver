@@ -83,5 +83,6 @@ httpd.serve_forever()
 ## OUTPUT:
 ![alt text](<WhatsApp Image 2025-08-31 at 22.36.17_b652e31a.jpg>)
 
+![alt text](<WhatsApp Image 2025-09-01 at 09.06.49_43038cb2.jpg>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
